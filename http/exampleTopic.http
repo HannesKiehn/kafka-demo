@@ -1,4 +1,8 @@
 ### Create Hello World example message
 POST http://localhost:8080/example-topic/send-message
+Content-Type: application/json
 
+{
+  "message": "Hello World :)"
+}
 ###
