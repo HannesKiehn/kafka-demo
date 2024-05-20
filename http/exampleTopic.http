@@ -1,0 +1,4 @@
+### Create Hello World example message
+POST http://localhost:8080/example-topic/send-message
+
+###
